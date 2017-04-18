@@ -1,4 +1,4 @@
-# NodeJS-Recreation
+ # NodeJS-Recreation
 
 The goal of this project is to recreate a mocup of the [Node JS Website](https://nodejs.org).  You will have 4 days in lab to complete all of the HTML, CSS and JS.  Here are some guidelines that will help streamline your process.
 
