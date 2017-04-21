@@ -1,0 +1,59 @@
+header,footer{
+    height: 15%;
+    width: inherit;
+    background-color: black;
+}
+#banner{
+    height: 25%;
+    width: inherit;
+}
+#main{
+    height: 60%;
+    width: 100%;
+}
+p{
+    font-size: 20px;
+    margin: 15px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #333;
+}
+#banner div{
+    width: 100%;
+    height: auto;
+}
+#banner div img{
+    width: inherit;
+}
+#logo{
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+}
+#logo img{
+  width: inherit;
+  height: auto;
+}
+nav{
+  width: 55%;
+  height: auto;
+  margin: auto;
+}
+nav a{
+  font-size: 18px;
+  margin:0 auto;
+  color: white;
+}
+h1{
+  font-size: 36px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #333;
+  font-weight: 400;
+}
+#leftbutton h1{
+  text-align: left;
+}
+#leftbutton p{
+  text-align: left;
+}
